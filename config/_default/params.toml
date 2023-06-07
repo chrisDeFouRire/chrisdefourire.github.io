@@ -5,7 +5,7 @@ isSinglePage = true
 description = "Chris Hartwig"
 
 # Header Configuration
-avatar = "img/profile-picture.jpg"
+avatar = "img/Chris.jpg"
 
 # disqus is a comment system. see https://disqus.com
 disqusShortname = ""
