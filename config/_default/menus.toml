@@ -22,29 +22,23 @@
     url = "/tags"
     weight = 4
 
-[[main]]
-    identifier = "donate"
-    name = "Donate"
-    url = "https://ko-fi.com/nixentric"
-    weight = 5
-
 
 # Social Media Configuration
 
 [[social]]
     identifier = "twitter"
     name = "Twitter"
-    url = "#"
+    url = "https://twitter.com/ChrisHartwigSSL"
     weight = 1
 
 [[social]]
-    identifier = "instagram"
-    name = "Instagram"
-    url = "#"
-    weight = 2
+    identifier = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/christophe-hartwig-ba228a5/"
+    weight = 1
 
 [[social]]
     identifier = "github"
     name = "GitHub"
-    url = "#"
+    url = "https://github.com/chrisDeFouRire"
     weight = 3

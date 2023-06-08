@@ -17,4 +17,4 @@ paginate = 5
       lineNos = false
       lineNumbersInTable = false
       tabWidth = 4
-      noClasses = false
+      noClasses = true

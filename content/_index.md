@@ -2,14 +2,15 @@
 title: "Hey there!"
 draft: false
 ---
-Lowkey is a Clean and Simple Hugo theme inspired by [Adam Wathan's](https://adamwathan.me/) Website. Suitable for use as a personal blog, portofolio, etc. 
 
-This theme uses TailwindCSS, so it's easy to customize.
+I'm [@ChrisHartwigSSL](https://twitter.com/ChrisHartwigSSL), a backend engineer, entrepreneur and SSL expert.
 
-If you are interested in using this theme, you can get it on [GitHub](#).
+I want to share with you experiences and thoughts I have about various techs and organisations.
 
-**Example Description:**
+In 2015 I launched SSLping.com which gained some popularity, while working on a gaming backend as a service called [Xtralife](https://github.com/xtralifecloud) and a project called [Geeo](https://github.com/GeeoIO), both Opensource now. I do have a thing for backend, devops and SSL/TLS stuff but I'm not good as a solo founder.
 
-Alex Lowkey is a professor of artificial intelligence at the Unknow AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+__I'm currently looking for an exciting position!__
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+I've worked remotely from abroad since 2014, traveling between UTC-4 to UTC+8, from Martinique in the Caribbean🏝️ to Malta🇲🇹 and Spain🇪🇸, Mauritius🇲🇺, Malaysia🇲🇾, the Philippines🇵🇭, Thailand🇹🇭, Cambodia🇰🇭 and Vietnam🇻🇳. Also I'm French.
+
+Find me on [LinkedIn](https://www.linkedin.com/in/christophe-hartwig-ba228a5/) or [GitHub](https://github.com/chrisDeFouRire).

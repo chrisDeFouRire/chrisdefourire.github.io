@@ -2,7 +2,7 @@
 title: "Markdown Cheat Sheet"
 draft: false
 date: 2022-08-27T09:16:45.000Z
-description: "A Python dictionary is like a JavaScript object – it’s a sequence of key:value pairs. So, you can create them like this:"
+description: "This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements"
 categories:
 - Hello
 tags:
@@ -64,7 +64,7 @@ In the separated borders model, the border makes the entire box look as though i
   "age": 25
 }
 ```
-
+ 
 Tailwind lets you conditionally apply utility classes in different states using variant modifiers. For example, use hover:scroll-auto to only ~~The world is flat.~~
  apply the scroll-auto utility on hover.
 
