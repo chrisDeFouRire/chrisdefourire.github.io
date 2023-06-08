@@ -1,6 +1,6 @@
 ---
 title: "JavaScript"
-draft: false
+draft: true
 ---
 
 Description
