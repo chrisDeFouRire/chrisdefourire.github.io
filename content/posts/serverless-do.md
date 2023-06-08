@@ -12,13 +12,13 @@ tags:
 
 In this article:
 
-- [Why even use serverless functions](#whyserverless)
-- [Why Digital Ocean](#whydo)
-- [The Golang API issue](#goissue)
-- [The logging issue](#logissue)
+- [Why even use serverless functions](#why-even-use-serverless-functions)
+- [Why Digital Ocean](#why-digital-ocean)
+- [The Golang Functions API issue](#the-golang-functions-api-issue)
+- [The logging issue](#the-logging-issue)
 
 
-## Why even use serverless functions {#whyserverless}
+## Why even use serverless functions
 
 Because I'm in the process of re-creating __SSLping__! 
 
@@ -32,13 +32,13 @@ I also want to integrate APIs written in different languages. SSLPing started as
 
 Functions allow mixing implementation details easily, more easily than a monolith obviously.
 
-## Why Digital Ocean {#whydo}
+## Why Digital Ocean
 
 It's cheap, it's simple, I've used it a lot in the past. Usually, it suits solo founders' needs perfectly. In this precise case, as you'll read below, I was disappointed. 
 
 However you can use [this Link](https://m.do.co/c/813f527beae9) to get $200 in credit valid for 60 days! I'm still using DO and it's still a great option to host your projects!
 
-## The Golang functions API issue {#goissue}
+## The Golang functions API issue
 
 blah too
 
@@ -56,6 +56,6 @@ type Event struct {
 }
 {{< / highlight >}}
 
-## The logging issue {#logissue}
+## The logging issue
 
 blah blah
