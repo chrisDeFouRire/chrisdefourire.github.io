@@ -83,7 +83,7 @@ Why did OpenWhisk model it that way? I have no idea: you can be a fan of dynamic
 
 __Use types, don't make me guess!__
 
-For the input type of the function, I had a similar problem. Invocation parameters (JSON or form encoded) will be placed at the root of the input `inteface{}`, but an `http` key will hold the method, headers and path used to invoke the function. Again, it's dumb to hide this typed information.
+For the input type of the function, I had a similar problem. Invocation parameters (JSON or form encoded) will be placed at the root of the input `interface{}`, but an `http` key will hold the method, headers and path used to invoke the function. Again, it's dumb to hide this typed information.
 
 Here's the struct I used to receive parameters and HTTP params.
 
