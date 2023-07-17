@@ -149,3 +149,5 @@ Who wants logs for their API calls? Who wants logs for their backend? __I do__.
 And it is the moment I thought: _"Okay, I must write about this nonsense in my blog, and switch over to another functions platform ASAP"_
 
 __TL;DR: I'm switching to AWS Lambda__
+
+Read the [article where I make the switch!]({{< ref serverless-framework-aws.md >}})
